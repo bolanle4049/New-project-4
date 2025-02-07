@@ -1,0 +1,146 @@
+.main2{
+    background-color: rgb(253, 252, 252);
+    height: 80px;
+    width: 340px;
+    padding: 13px;
+    border-radius: 25px;
+    align-content: center;
+   margin: 20px;
+    
+}
+.main3{
+    background-color: rgb(253, 252, 252);
+    height: 213px;
+    width: 340px;
+    padding: 13px;
+    margin: auto;
+    border-radius: 25px;
+    margin: 20px;
+}
+.main1{
+    align-items: center;
+    height: 300px;
+    width: 150px;
+}
+h1{
+    font-size: 18px;
+    font-style: oblique;
+    
+
+}
+h2{
+    font-size: 16px;
+}
+h3{
+    font-size: 12px;
+    color: rgb(174, 176, 176);
+   
+}
+.p3{
+    font-size: 8.5px;
+    color: rgb(174, 176, 176);
+    margin-top: 10px;
+   
+}
+h4{
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+.p1{
+    font-size: 12px;
+    width: 210px;
+    color: rgb(127, 128, 128);
+    
+}
+.img1{
+    height: 80px;
+    margin-left: 5px;
+    margin-right: 1px;
+    width: 70px;
+}
+.p2{
+    font-size: 15px;
+    width: 40px;
+    /* margin-right: 20px; */
+    margin-left: 30px;
+  
+}
+.div1{
+   display: flex;
+  
+   justify-content: space-between;
+}
+.div2{
+    display: flex;
+    /* justify-content: left; */
+    padding-bottom: 9px;
+
+   
+    
+}
+.div2 div img{
+   
+    padding-inline: 6px;
+    margin-top: 15px;
+    
+}
+body{
+   background-color: rgb(132, 148, 171);
+  align-items: center;
+}
+
+.img3{
+    height: 30px;
+    width: 30px;
+}
+.img4{
+    height: 30px;
+    width: 30px;
+}
+.img5{
+    height: 30px;
+    width: 30px;
+}
+.img6{
+    height: 30px;
+    width: 30px;
+}
+.img2{
+    height: 30px;
+    width: 30px;
+    
+   
+}
+button{
+  border-radius: 25px;
+  border: 0px;
+  font-size: 10px;
+  height: 21px;
+  width: 75px;
+  background-color: rgb(41, 41, 205);
+  color: rgb(248, 251, 251);
+  margin-left: 45px;
+  margin-top: 100px;
+  
+}
+.div4{
+    display: flex;
+}
+.img8{
+    height: 30px;
+    width: 30px;
+}
+.div5{
+    margin-left: 83px;
+    margin-top: 11px;
+
+}
+.div6{
+    margin-left: 66px;
+    font-size: 11px;
+    margin-top: 30px;
+    color: rgb(119, 118, 118);
+}
+.div9{
+    margin-left: 11px;
+}
